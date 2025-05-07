@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kim Yu Bin"
+  avatar           : "/assets/images/jjang.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Cheong Ju South Korea"
+  email            : "han6wol@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

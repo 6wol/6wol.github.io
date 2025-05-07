@@ -19,6 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "우당탕 프론트엔드 개발자 꿈나무"
 title_separator          : "-"
+tab_title                : "하루하루 기록 일기장"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
